@@ -30,6 +30,10 @@ export const WrapperInfoUser = styled.div`
     font-weight: bold;
     color: #F7F7F7
   }
+  span{
+    color:#f7f7f7;
+    text-decoration: underline;
+  }
 `;
 
 export const WrapperStatusCount = styled.div`
